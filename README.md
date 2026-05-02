@@ -1,0 +1,45 @@
+# ESP32-Rocket-Sim-PCB
+An MPU and ESP32 powered PCB that tracks motion in real time useing an MPU 6050 and an ESP32-c3-wroom made in KICAD.
+
+**What it does:**
+- It uses the MPU 6050 to track motion and orientation and controld the orientation of a rocket graphic made in processing (soming soon)
+- powerd by a USB-C (V2 might be whireless)
+- Runs on ESP32
+
+**Componants:**
+
+- ESP32
+- MPU6050
+- USB-C
+- Voltage regulator
+- capasators
+
+This was my 2nd ever PCB and I think this one is a really cool project. I like sensors alot and I like making hardware that interacts with software. 
+This was my first PCB that was not from a tutorial and the process was suppriseingly intuative. 
+
+# Pictures
+
+
+<img width="457" height="524" alt="Screenshot 2026-05-02 101709" src="https://github.com/user-attachments/assets/fd577ae2-d19d-4ba6-92ec-08a6cc756e4c" />
+
+
+
+<img width="530" height="648" alt="Screenshot 2026-05-02 111106" src="https://github.com/user-attachments/assets/fd20bf50-c296-48d0-bfb6-6e3a8b80984b" />
+
+
+<img width="559" height="685" alt="Screenshot 2026-05-02 111129" src="https://github.com/user-attachments/assets/2c7f2998-9dee-436f-b495-8145f4d86afe" />
+
+<img width="423" height="636" alt="Screenshot 2026-05-02 121611" src="https://github.com/user-attachments/assets/34e39155-619b-4d0b-a587-a402b3c346c4" />
+
+# BOM
+
+
+<img width="1554" height="275" alt="image" src="https://github.com/user-attachments/assets/f25636c7-d984-496a-a6a4-2e603a9af363" />
+
+
+
+
+
+
+
+
