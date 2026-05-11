@@ -1,5 +1,5 @@
 # ESP32-Rocket-Sim-PCB
-An MPU and ESP32 powered PCB that tracks motion in real time useing an MPU 6050 and an ESP32-c3-wroom made in KICAD.
+An MPU and ESP32 powered PCB that tracks motion in real time useing an MPU 6050 and an ESP32-c3-wroom made in KICAD. This bored can senses movement, orientation, and rotation by reading accelerometer and gyroscope data from the MPU. I made this project to learn more about digital sensors and building somthing with out a tutorial. 
 
 **What it does:**
 - It uses the MPU 6050 to track motion and orientation and controld the orientation of a rocket graphic made in processing (soming soon)
@@ -30,6 +30,9 @@ This was my first PCB that was not from a tutorial and the process was supprisei
 <img width="559" height="685" alt="Screenshot 2026-05-02 111129" src="https://github.com/user-attachments/assets/2c7f2998-9dee-436f-b495-8145f4d86afe" />
 
 <img width="423" height="636" alt="Screenshot 2026-05-02 121611" src="https://github.com/user-attachments/assets/34e39155-619b-4d0b-a587-a402b3c346c4" />
+
+<img width="1180" height="805" alt="Screenshot 2026-04-27 213949" src="https://github.com/user-attachments/assets/05fbd567-5415-4694-a80d-194c555f9fd3" />
+
 
 # BOM
 
