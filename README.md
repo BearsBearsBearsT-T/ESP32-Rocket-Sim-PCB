@@ -26,10 +26,10 @@ This was my first PCB that was not from a tutorial and the process was supprisei
 
 <img width="530" height="648" alt="Screenshot 2026-05-02 111106" src="https://github.com/user-attachments/assets/fd20bf50-c296-48d0-bfb6-6e3a8b80984b" />
 
+<img width="770" height="675" alt="Screenshot 2026-06-01 212529" src="https://github.com/user-attachments/assets/0b073577-7d47-46a6-ae08-c79c8badf111" />
 
-<img width="559" height="685" alt="Screenshot 2026-05-02 111129" src="https://github.com/user-attachments/assets/2c7f2998-9dee-436f-b495-8145f4d86afe" />
+<img width="679" height="695" alt="Screenshot 2026-06-01 212441" src="https://github.com/user-attachments/assets/6811a422-3e56-444f-b938-958068089960" />
 
-<img width="423" height="636" alt="Screenshot 2026-05-02 121611" src="https://github.com/user-attachments/assets/34e39155-619b-4d0b-a587-a402b3c346c4" />
 
 <img width="1180" height="805" alt="Screenshot 2026-04-27 213949" src="https://github.com/user-attachments/assets/05fbd567-5415-4694-a80d-194c555f9fd3" />
 
